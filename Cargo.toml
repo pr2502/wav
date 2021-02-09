@@ -1,0 +1,8 @@
+[package]
+name = "wav"
+version = "0.1.0"
+description = "very simple and leaky wav reader and writer"
+authors = []
+edition = "2018"
+
+[dependencies]
