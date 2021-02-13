@@ -1,8 +1,13 @@
 [package]
 name = "wav"
 version = "0.1.0"
-description = "very simple and leaky wav reader and writer"
 authors = []
 edition = "2018"
+
+description = "very simple and leaky wav reader and writer"
+readme = "README.md"
+homepage = "https://github.com/ametisf/wav"
+repository = "https://github.com/ametisf/wav"
+license = "GPL-3.0-or-later"
 
 [dependencies]
